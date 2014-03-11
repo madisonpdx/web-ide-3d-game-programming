@@ -48,6 +48,7 @@ Coding and Testing Changes
 Now that you cloned the sample project you are ready to start coding. Switch back to your code editor by clicking the
 red notepad icon. Double click the Web folder, then double click the folder named web-ide-3d-game-programming to expand
 the sample project. Double click index.html to open it in your code editor. Then right click index.html and select
-'Preview' to run your code and see what it does. This is a good workflow that you can use. In one browser tab you
+'Public URL' and then select the address and copy it. Open a new browser tab, paste in the address and hit enter to load 
+the page. This is a good workflow that you can use. In one browser tab you
 have your code editor and in another tab you have the web page with the running code. After you modify your code
 switch over to the tab with the running code and refresh to see the changes.
